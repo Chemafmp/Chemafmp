@@ -27,11 +27,15 @@ Hi! I’m a Telecommunications Engineer with extensive experience leading global
 • Network Controllers: Proficient in SDN platforms (Cisco ACI, Nokia NSP, etc.).
 • Process Optimization: Developing operational models, workflows, and decision trees for effective team management.
 • Programming & Scripting: Python, YAML, and workflow automation tools.
+
 📚 Current Goals
+
 • Master advanced network automation theories and best practices.
 • Explore innovative solutions to unify and accelerate service delivery models.
 • Design robust, cross-departmental operational frameworks aligned with operational excellence pillars.
+
 🛠️ Projects I Care About
+
 • SONAR Tool Development: Creating a comprehensive monitoring and alarm management system tailored to IP and transmission networks.
 • Operational Change Model: Designing faster, unified service delivery models.
 • Risk Management Framework: Establishing tools to track and manage risks effectively.
